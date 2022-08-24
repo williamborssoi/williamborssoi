@@ -15,9 +15,10 @@ Olá, eu sou o William Borssoi!
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamborssoi&show_icons=true&theme=tokyonight)
 </span> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamborssoi&show_icons=true&theme=tokyonight)
-[![williamborssoi](https://github-readme-stats.vercel.app/api/top-langs/?username=williamborssoi&hide=html&layout=compact=true&theme=tokyonight)](https://github.com/williamborssoi/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=williamborssoi&show_icons=true&theme=github_dark)
+![williamborssoi](https://github-readme-stats.vercel.app/api/top-langs/?username=williamborssoi&hide=javascript,html&theme=github_dark)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=williamborssoi&layout=compact&theme=tokyonight) -->
+
 ![Snake animation](https://github.com/williamborssoi/williamborssoi/blob/main/github-user-contribution.svg)
 
 ## Minhas Redes Sociais
