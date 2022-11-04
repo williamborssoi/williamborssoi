@@ -6,7 +6,7 @@ Olá, eu sou o William Borssoi!
 </h3>
 
 ```
-📚 Atualmente estudando Analise e Desenvolvimento de Sistemas.
+📚  Analise e Desenvolvimento de Sistemas.
 ```
 
 ## Meus dados no Github
